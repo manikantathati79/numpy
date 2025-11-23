@@ -1,0 +1,6 @@
+import numpy as np
+def my_function(s):
+    s1=np.array(s)
+    return s1.nbytes
+s=[1,2,3,4,5]
+print("memory size array =",my_function(s))
