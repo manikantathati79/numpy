@@ -1,0 +1,4 @@
+import numpy as np
+a=42
+a1=np.array(a)
+print("0d array =",a1)
