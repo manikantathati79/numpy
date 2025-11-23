@@ -1,0 +1,4 @@
+import numpy as np
+a=[[1,2,3],[4,5,6]]
+a1=np.array(a)
+print("2d array =",a1)
