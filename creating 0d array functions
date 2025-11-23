@@ -1,0 +1,5 @@
+import numpy as np
+def my_function(s):
+    return np.array(s)
+s=42
+print("0d array =",my_function(s))
